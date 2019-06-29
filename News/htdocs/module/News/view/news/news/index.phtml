@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+<script>
+    var object = {
+        constructor: function (name) {
+            this.name = name;
+
+            return this;
+        },
+        greet: function () {
+            console.log(name );
+        }
+    };
+
+    var first = Object.create(object).constructor('artur');
+    var second = Object.create(object).constructor('edo');
+
+    first.greet();
+    second.greet();
+</script>
+
+</body>
+</html>

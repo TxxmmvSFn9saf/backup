@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-router" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-loader" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-mvc" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-view" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zfcampus/zf-development-mode" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-servicemanager" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-http" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/composer" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-config" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-modulemanager" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-component-installer" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-uri" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/htdocs/vendor/zendframework/zend-eventmanager" />
+    </include_path>
+  </component>
+</project>

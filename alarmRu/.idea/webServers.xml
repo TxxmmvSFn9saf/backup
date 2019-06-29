@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a68cad94-292a-4202-aaa7-3b0ab4dbfcdf" name="host_`" url="http://a58139.ftp.mchost.ru">
+        <fileTransfer host="a58139.ftp.mchost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6d3b71e6-4fb5-47ac-a938-bcc74a48eb9e" name="host2" url="http://a58139.ftp.mchost.ru">
+        <fileTransfer host="a58139.ftp.mchost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
